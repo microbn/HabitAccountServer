@@ -1,4 +1,4 @@
-package com.bj.habit.account;
+package com.bj.habit.domain.account;
 
 
 /**
