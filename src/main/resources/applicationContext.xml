@@ -14,7 +14,7 @@
 	
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
    	<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
-   	<property name="url" value="jdbc:mysql://127.0.0.1:3306/mydb?characterEncoding=utf-8"></property>
+   	<property name="url" value="jdbc:mysql://127.0.0.1:3306/habit?characterEncoding=utf-8"></property>
    	<property name="username" value="root"></property>
    	<property name="password" value="root"></property>
    	<property name="maxActive" value="100"></property>
